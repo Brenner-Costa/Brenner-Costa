@@ -1,8 +1,8 @@
 ### Olá, eu sou o Brenner 👋
 
-- Atualmente trabalho com Desenvolvimento Web 
-- Estou cursando Engenharia Computaciona na Universidade Federal de Juiz de Fora.
-- 
+- 💻 Atualmente trabalho como projetista na Code Jr. 
+- 💾 Estou cursando Engenharia Computacional na Universidade Federal de Juiz de Fora.
+- 📕 Meus estudos atuais são: React.Js, JavaScript, TypeScript e Next.Js.
 
 <div align="center">
   <a href="https://github.com/Brenner-Costa">
