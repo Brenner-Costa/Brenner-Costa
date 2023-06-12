@@ -1,6 +1,6 @@
 ### Olá, eu sou o Brenner 👋
 
-- 💻 Atualmente trabalho como projetista na Code Jr. 
+- 💻 Atualmente trabalho como Desenvolvedor Back-End na Upload Tech. 
 - 💾 Estou cursando Engenharia Computacional na Universidade Federal de Juiz de Fora.
 - 📕 Meus estudos atuais são: React.Js, JavaScript, TypeScript e Next.Js.
 
