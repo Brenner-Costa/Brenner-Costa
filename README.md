@@ -9,7 +9,7 @@
   <img height="85%" width="55%" src="https://github-readme-stats.vercel.app/api?username=Brenner-Costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
 <img height="85%" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenner-Costa&layout=compact&langs_count=7&theme=dark"/>
 </div>
- ##
+    
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
