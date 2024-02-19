@@ -1,6 +1,6 @@
 ### Olá, eu sou o Brenner 👋
 
-- 💻 Atualmente trabalho como Desenvolvedor Back-End na Upload Tech. 
+- 💻 Atualmente trabalho como Desenvolvedor Back-End na Upload. 
 - 💾 Estou cursando Engenharia Computacional na Universidade Federal de Juiz de Fora.
 - 📕 Meus estudos atuais são: JavaScript, TypeScript e Next.Js.
 
