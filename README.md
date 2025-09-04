@@ -1,5 +1,3 @@
-### Olá, eu sou o Brenner 👋
-
 <div align="center"><br>
   <a href="https://github.com/Brenner-Costa">
   <img height="85%" width="55%" src="https://github-readme-stats.vercel.app/api?username=Brenner-Costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
